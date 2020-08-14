@@ -1,0 +1,1 @@
+Phải cài đặt oracle client mới đăng nhập được oracle
